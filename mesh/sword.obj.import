@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sword.obj-6d062359cc30356e701a28b6d9c205ae.mesh"
+
+[deps]
+
+files=[ "res://.import/sword.obj-6d062359cc30356e701a28b6d9c205ae.mesh" ]
+
+source_file="res://mesh/sword.obj"
+source_md5="934a4d9ac7b6cf0f0662b0e543c44069"
+
+dest_files=[ "res://.import/sword.obj-6d062359cc30356e701a28b6d9c205ae.mesh", "res://.import/sword.obj-6d062359cc30356e701a28b6d9c205ae.mesh" ]
+dest_md5="66724392e0e1b7a2e748dcc5f59f3610"
+
+[params]
+
+generate_tangents=true
